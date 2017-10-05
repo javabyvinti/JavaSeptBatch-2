@@ -1,0 +1,50 @@
+Loop:
+
+repeat to a particular condition
+
+
+--> while
+--> do-while
+--> for
+
+
+initialization and condition and increment/decrement
+
+while--> entry controlled loop
+//when ending condition depends upon user then use while
+
+	initialization
+
+	while(condition){
+	statments;
+	increment/decrement;
+	}
+
+
+sum of digits--> 4 --> 1 + 2+3+4+..+10 --> 
+
+do-while -->  exit control loop
+
+//Menu-driven programs
+
+	initialization
+
+	do{
+		statements;
+		increment/decrement;
+
+	}while(condition);
+
+For loop--> 
+
+	for(initialzation;condition;increment/decrement){
+		statements;
+	}
+
+
+
+
+
+
+
+
