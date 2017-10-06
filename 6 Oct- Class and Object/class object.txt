@@ -1,0 +1,38 @@
+what is a class?
+1. not a read world entity / logically exist
+2. 
+
+
+1. collection of variable and function
+
+
+
+what is an object?
+1. read world entity / physically exist
+2. 
+
+Features of OOPS
+--> encapsulation
+--> polymorphism
+--> abstraction
+--> inheritance
+------------------------------------------------------------
+
+
+class and object
+constructors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
