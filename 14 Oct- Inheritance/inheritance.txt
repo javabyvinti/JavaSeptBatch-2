@@ -1,0 +1,70 @@
+core java--> desktop based 
+as a developer --> advance java--> server side application
+		   mobile development(android(java) or ios) --> company 			or free lancer
+		--> Testing 		
+
+web Developer --> 
+
+
+
+Mean Developer
+
+
+
+
+
+
+
+Relationship:
+
+is-a and has-a
+
+eg--> Dog is a animal  --> inheritance
+      Student is a Person
+
+eg--> Rohan has a Loan(Edu, personal, home, etc) --> class and object
+      Aman has a Laptop(Brand, )	
+
+
+Inheritance --> when we want to reuse the code
+		no of features to use are more then always apply inheritance
+
+Class and Object --> requirement of predefined code is based upon usage
+
+
+
+
+Inheritance
+
+root --> child or nodes or derived class
+
+
+base class --> derived class
+
+--> features: 1) code reuseablity
+	      2) no need to create object
+	      3) polymorphism --> one way many forms
+		Opeator overloading:
+		eg--> 43 + 65 = 108
+		eg--> "Hello" + "Ram" = Hello Ram
+
+			--> method overloading
+			--> method overriding
+			
+--> inheritance in java
+--> 3 types of inheritance
+
+	1.single inheritance
+	2.multilevel inheritance
+	3.hierarical inheritance
+
+
+
+
+
+
+
+
+
+
+
